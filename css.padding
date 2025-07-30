@@ -1,0 +1,19 @@
+<html>
+<head>
+    <title>CSS Padding</title>
+    <style>
+        .test {
+            border: 2px solid black;
+            padding: 20px 50px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Yahoo Baba : CSS Padding</h1>
+
+    <div class="test">
+        Curabitur nec ligula venenatis, maximus metus eget, eleifend augue. Aliquam od...
+    </div>
+</body>
+</html>
